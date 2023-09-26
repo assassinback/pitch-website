@@ -1,0 +1,30 @@
+<IfModule mod_rewrite.c>
+
+DirectoryIndex index.php index.html
+
+SetEnv HTTP_MOD_REWRITE On
+RewriteEngine on
+Options +FollowSymLinks -MultiViews
+# Turn mod_rewrite on
+RewriteEngine On
+RewriteBase /
+
+# For Site
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.php -f
+
+RewriteRule ^(.*)$ $1.php [NC,L]
+#RewriteCond %{REQUEST_URI} monthly-reports
+#$RewriteRule ^(.*)$ monthly_report.php?param=$1
+#RewriteRule ^blog1/([a-zA-Z0-9_-]+)$ blog_detail.php?blog_id=$1
+#RewriteRule ^fund-information/([a-zA-Z0-9_-]+)$ fund_data.php?fund=$1
+
+#errorDocument 400 http://localhost/36south/error
+#errorDocument 401 http://localhost/36south/error
+#errorDocument 404 http://localhost/36south/error
+#errorDocument 500 http://localhost/36south/error
+
+</IfModule> 
+<IfModule mod_php5.c>
+  php_value output_buffering On
+</IfModule>

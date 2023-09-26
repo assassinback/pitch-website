@@ -1,0 +1,15 @@
+[19-Nov-2020 07:13:49 Europe/London] PHP Notice:  Undefined index: validate_by in /home/digitalgrowthfac/public_html/pitch/admin/user/update.php on line 19
+[04-Mar-2021 07:57:09 Europe/London] PHP Notice:  Undefined index: validate_by in /home/digitalgrowthfac/public_html/pitch/admin/user/update.php on line 19
+[04-Mar-2021 07:57:09 Europe/London] PHP Notice:  Undefined index: file_0 in /home/digitalgrowthfac/public_html/pitch/admin/user/update.php on line 87
+[04-Mar-2021 07:57:09 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/digitalgrowthfac/public_html/pitch/admin/user/update.php on line 88
+[04-Mar-2021 07:57:11 Europe/London] PHP Notice:  Undefined index: validate_by in /home/digitalgrowthfac/public_html/pitch/admin/user/update.php on line 19
+[04-Mar-2021 07:57:11 Europe/London] PHP Notice:  Undefined index: file_0 in /home/digitalgrowthfac/public_html/pitch/admin/user/update.php on line 87
+[04-Mar-2021 07:57:11 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/digitalgrowthfac/public_html/pitch/admin/user/update.php on line 88
+[04-Mar-2021 07:57:12 Europe/London] PHP Notice:  Undefined index: validate_by in /home/digitalgrowthfac/public_html/pitch/admin/user/update.php on line 19
+[04-Mar-2021 07:57:12 Europe/London] PHP Notice:  Undefined index: file_0 in /home/digitalgrowthfac/public_html/pitch/admin/user/update.php on line 87
+[04-Mar-2021 07:57:12 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/digitalgrowthfac/public_html/pitch/admin/user/update.php on line 88
+[09-Mar-2021 07:19:06 Europe/London] PHP Notice:  Undefined index: validate_by in /home/digitalgrowthfac/public_html/pitch/admin/user/update.php on line 19
+[09-Mar-2021 07:19:12 Europe/London] PHP Notice:  Undefined index: validate_by in /home/digitalgrowthfac/public_html/pitch/admin/user/update.php on line 19
+[16-Mar-2021 10:25:49 Europe/London] PHP Notice:  Undefined index: validate_by in /home/digitalgrowthfac/public_html/pitch/admin/user/update.php on line 19
+[26-Mar-2021 14:20:21 Europe/London] PHP Notice:  Undefined index: adminsessionid in /home/pitchatnrcom/public_html/admin/user/update.php on line 10
+[05-Apr-2021 11:52:29 Europe/London] PHP Notice:  Undefined index: adminsessionid in /home/pitchatnrcom/public_html/admin/user/update.php on line 10

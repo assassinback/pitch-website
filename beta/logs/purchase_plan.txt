@@ -1,0 +1,1086 @@
+Start : 2018-10-24 10:20:01
+Array
+(
+    [plan_id] => 3
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 4166441502320243
+    [expiry_month] => 3
+    [expiry_year] => 21
+    [cvv] => 472
+)
+
+Start : 2018-10-24 10:37:18
+Array
+(
+    [plan_id] => 2
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 4166441502320243
+    [expiry_month] => 3
+    [expiry_year] => 21
+    [cvv] => 472
+)
+
+Start : 2018-10-24 10:40:09
+Array
+(
+    [plan_id] => 2
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 4166441502320243
+    [expiry_month] => 3
+    [expiry_year] => 21
+    [cvv] => 472
+)
+
+Start : 2018-10-24 12:47:34
+Array
+(
+    [plan_id] => 1
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 
+    [expiry_month] => 
+    [expiry_year] => 
+    [cvv] => 
+)
+
+Start : 2018-10-26 10:29:27
+Array
+(
+    [plan_id] => 
+    [plan_type] => 
+    [validation_session_plan_id] => 2
+    [card_number] => 4976000000003436
+    [expiry_month] => 12
+    [expiry_year] => 20
+    [cvv] => 452
+)
+
+Register Card :Array
+(
+    [receiptId] => 373040439093444608
+    [yourPaymentReference] => Judo_RegisterCardPreAuth_636761465676417276
+    [type] => PreAuth
+    [createdAt] => 2018-10-26T10:29:27.6729+01:00
+    [result] => Success
+    [message] => AuthCode: 659797
+    [judoId] => 100403658
+    [merchantName] => Pitch
+    [appearsOnStatementAs] => APL*/Pitch   
+    [originalAmount] => 1.01
+    [amountCollected] => 0.00
+    [netAmount] => 1.01
+    [amount] => 1.01
+    [currency] => GBP
+    [cardDetails] => Array
+        (
+            [cardLastfour] => 3436
+            [endDate] => 1220
+            [cardToken] => QfF3aF7oJNu8cwsOCjDkrRwB19mRGKq8
+            [cardType] => 11
+            [cardScheme] => Visa
+            [cardFunding] => Debit
+        )
+
+    [consumer] => Array
+        (
+            [consumerToken] => ZujgDRBcTlDHF4D5
+            [yourConsumerReference] => PITCH-149-20181026102927
+        )
+
+    [riskScore] => 0
+    [risks] => Array
+        (
+            [postCodeCheck] => UNKNOWN
+            [merchantSuggestion] => Allow
+            [merchantStatistics] => Array
+                (
+                )
+
+        )
+
+)
+
+Token Payment :Array
+(
+    [receiptId] => 373040440980865024
+    [yourPaymentReference] => PITCH-149-20181026102927
+    [type] => Payment
+    [createdAt] => 2018-10-26T10:29:28.2518+01:00
+    [result] => Success
+    [message] => AuthCode: 114397
+    [judoId] => 100403658
+    [merchantName] => Pitch
+    [appearsOnStatementAs] => APL*/Pitch   
+    [originalAmount] => 600.00
+    [netAmount] => 600.00
+    [amount] => 600.00
+    [currency] => GBP
+    [cardDetails] => Array
+        (
+            [cardLastfour] => 3436
+            [endDate] => 1220
+            [cardToken] => QfF3aF7oJNu8cwsOCjDkrRwB19mRGKq8
+            [cardType] => 11
+            [cardScheme] => Visa
+            [cardFunding] => Debit
+        )
+
+    [consumer] => Array
+        (
+            [consumerToken] => ZujgDRBcTlDHF4D5
+            [yourConsumerReference] => PITCH-149-20181026102927
+        )
+
+    [riskScore] => 0
+    [risks] => Array
+        (
+            [postCodeCheck] => UNKNOWN
+            [merchantSuggestion] => Allow
+            [merchantStatistics] => Array
+                (
+                )
+
+        )
+
+)
+
+Start : 2018-10-26 10:31:01
+Array
+(
+    [plan_id] => 3
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 4976000000003436
+    [expiry_month] => 12
+    [expiry_year] => 20
+    [cvv] => 452
+)
+
+Register Card :Array
+(
+    [receiptId] => 373040813955158016
+    [yourPaymentReference] => Judo_RegisterCardPreAuth_636761466620376727
+    [type] => PreAuth
+    [createdAt] => 2018-10-26T10:31:02.0532+01:00
+    [result] => Success
+    [message] => AuthCode: 924936
+    [judoId] => 100403658
+    [merchantName] => Pitch
+    [appearsOnStatementAs] => APL*/Pitch   
+    [originalAmount] => 1.01
+    [amountCollected] => 0.00
+    [netAmount] => 1.01
+    [amount] => 1.01
+    [currency] => GBP
+    [cardDetails] => Array
+        (
+            [cardLastfour] => 3436
+            [endDate] => 1220
+            [cardToken] => oaRkJA7SOKbfOyCzJaz9WiFpXyc3SAeM
+            [cardType] => 11
+            [cardScheme] => Visa
+            [cardFunding] => Debit
+        )
+
+    [consumer] => Array
+        (
+            [consumerToken] => sizMYKS7AQNtaweJ
+            [yourConsumerReference] => PITCH-149-20181026103101
+        )
+
+    [riskScore] => 0
+    [risks] => Array
+        (
+            [postCodeCheck] => UNKNOWN
+            [merchantSuggestion] => Allow
+            [merchantStatistics] => Array
+                (
+                )
+
+        )
+
+)
+
+Token Payment :Array
+(
+    [receiptId] => 373040838605094912
+    [yourPaymentReference] => PITCH-149-20181026103101
+    [type] => Payment
+    [createdAt] => 2018-10-26T10:31:02.9231+01:00
+    [result] => Success
+    [message] => AuthCode: 912966
+    [judoId] => 100403658
+    [merchantName] => Pitch
+    [appearsOnStatementAs] => APL*/Pitch   
+    [originalAmount] => 99.99
+    [netAmount] => 99.99
+    [amount] => 99.99
+    [currency] => GBP
+    [cardDetails] => Array
+        (
+            [cardLastfour] => 3436
+            [endDate] => 1220
+            [cardToken] => oaRkJA7SOKbfOyCzJaz9WiFpXyc3SAeM
+            [cardType] => 11
+            [cardScheme] => Visa
+            [cardFunding] => Debit
+        )
+
+    [consumer] => Array
+        (
+            [consumerToken] => sizMYKS7AQNtaweJ
+            [yourConsumerReference] => PITCH-149-20181026103101
+        )
+
+    [riskScore] => 0
+    [risks] => Array
+        (
+            [postCodeCheck] => UNKNOWN
+            [merchantSuggestion] => Allow
+            [merchantStatistics] => Array
+                (
+                )
+
+        )
+
+)
+
+Start : 2018-10-29 15:43:02
+Array
+(
+    [plan_id] => 2
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 4658601536156013
+    [expiry_month] => 10
+    [expiry_year] => 20
+    [cvv] => 626
+)
+
+Start : 2018-10-29 18:57:26
+Array
+(
+    [plan_id] => 1
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 
+    [expiry_month] => 
+    [expiry_year] => 
+    [cvv] => 
+)
+
+Start : 2018-10-30 09:32:59
+Array
+(
+    [plan_id] => 2
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 4757470045875996
+    [expiry_month] => 8
+    [expiry_year] => 20
+    [cvv] => 710
+)
+
+Start : 2018-10-30 09:33:56
+Array
+(
+    [plan_id] => 2
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 4757470045875996
+    [expiry_month] => 8
+    [expiry_year] => 20
+    [cvv] => 710
+)
+
+Start : 2018-10-30 09:49:52
+Array
+(
+    [plan_id] => 2
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 4976000000003436
+    [expiry_month] => 12
+    [expiry_year] => 20
+    [cvv] => 452
+)
+
+Start : 2018-10-30 09:50:26
+Array
+(
+    [plan_id] => 2
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 4976000000003436
+    [expiry_month] => 12
+    [expiry_year] => 20
+    [cvv] => 452
+)
+
+Start : 2018-10-30 09:50:42
+Array
+(
+    [plan_id] => 2
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 4976000000003436
+    [expiry_month] => 12
+    [expiry_year] => 20
+    [cvv] => 452
+)
+
+Start : 2018-10-30 09:54:33
+Array
+(
+    [plan_id] => 2
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 4757470045875996
+    [expiry_month] => 8
+    [expiry_year] => 20
+    [cvv] => 710
+)
+
+Start : 2018-10-30 10:05:41
+Array
+(
+    [plan_id] => 2
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 4976000000003436
+    [expiry_month] => 12
+    [expiry_year] => 20
+    [cvv] => 452
+)
+
+Start : 2018-10-30 10:08:19
+Array
+(
+    [plan_id] => 2
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 4757470045875996
+    [expiry_month] => 08
+    [expiry_year] => 20
+    [cvv] => 710
+)
+
+Register Card :Array
+(
+    [receiptId] => 374499756728455168
+    [yourPaymentReference] => Judo_RegisterCardPreAuth_636764908999017035
+    [type] => PreAuth
+    [createdAt] => 2018-10-30T10:08:19.9329+00:00
+    [result] => Success
+    [message] => AuthCode: 526749
+    [judoId] => 100403658
+    [merchantName] => Pitch
+    [appearsOnStatementAs] => APL*/Pitch   
+    [originalAmount] => 1.01
+    [amountCollected] => 0.00
+    [netAmount] => 1.01
+    [amount] => 1.01
+    [currency] => GBP
+    [cardDetails] => Array
+        (
+            [cardLastfour] => 5996
+            [endDate] => 0820
+            [cardToken] => Q2leuhGSHZOjIi9gCnYoU7DbIEw0oQ31
+            [cardType] => 11
+            [cardScheme] => Visa
+            [cardFunding] => Debit
+        )
+
+    [consumer] => Array
+        (
+            [consumerToken] => TcfJ3SJUqnTUbFkg
+            [yourConsumerReference] => PITCH-149-20181030100819
+        )
+
+    [riskScore] => 0
+    [risks] => Array
+        (
+            [postCodeCheck] => UNKNOWN
+            [merchantSuggestion] => Allow
+            [merchantStatistics] => Array
+                (
+                )
+
+        )
+
+)
+
+Token Payment :Array
+(
+    [receiptId] => 374499765637152768
+    [yourPaymentReference] => PITCH-149-20181030100819
+    [type] => Payment
+    [createdAt] => 2018-10-30T10:08:21.9944+00:00
+    [result] => Declined
+    [message] => Card declined: CV2 mandatory
+    [judoId] => 100403658
+    [merchantName] => Pitch
+    [appearsOnStatementAs] => APL*/Pitch   
+    [originalAmount] => 0.01
+    [netAmount] => 0.01
+    [amount] => 0.01
+    [currency] => GBP
+    [cardDetails] => Array
+        (
+            [cardLastfour] => 5996
+            [endDate] => 0820
+            [cardType] => 11
+            [cardScheme] => Visa
+            [cardFunding] => Debit
+        )
+
+    [consumer] => Array
+        (
+            [consumerToken] => TcfJ3SJUqnTUbFkg
+            [yourConsumerReference] => PITCH-149-20181030100819
+        )
+
+    [riskScore] => 0
+    [risks] => Array
+        (
+            [postCodeCheck] => UNKNOWN
+            [merchantSuggestion] => Allow
+            [merchantStatistics] => Array
+                (
+                )
+
+        )
+
+)
+
+Start : 2018-10-30 11:39:32
+Array
+(
+    [plan_id] => 2
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 4757470045875996
+    [expiry_month] => 08
+    [expiry_year] => 20
+    [cvv] => 710
+)
+
+Start : 2018-10-30 12:04:38
+Array
+(
+    [plan_id] => 2
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 4596548289386823
+    [expiry_month] => 01
+    [expiry_year] => 23
+    [cvv] => 165
+)
+
+Register Card :Array
+(
+    [receiptId] => 374529030286016512
+    [yourPaymentReference] => Judo_RegisterCardPreAuth_636764978789853769
+    [type] => PreAuth
+    [createdAt] => 2018-10-30T12:04:39.0183+00:00
+    [result] => Success
+    [message] => AuthCode: 132800
+    [judoId] => 100403658
+    [merchantName] => Pitch
+    [appearsOnStatementAs] => APL*/Pitch   
+    [originalAmount] => 1.01
+    [amountCollected] => 0.00
+    [netAmount] => 1.01
+    [amount] => 1.01
+    [currency] => GBP
+    [cardDetails] => Array
+        (
+            [cardLastfour] => 6823
+            [endDate] => 0123
+            [cardToken] => 5XlvwOrs5JSixosp9NOHr19ilreb6Vav
+            [cardType] => 11
+            [cardScheme] => Visa
+            [cardFunding] => Debit
+        )
+
+    [consumer] => Array
+        (
+            [consumerToken] => xK6PJX3TXiN1yHof
+            [yourConsumerReference] => PITCH-141-20181030120438
+        )
+
+    [riskScore] => 0
+    [risks] => Array
+        (
+            [postCodeCheck] => UNKNOWN
+            [merchantSuggestion] => Allow
+            [merchantStatistics] => Array
+                (
+                )
+
+        )
+
+)
+
+Token Payment :Array
+(
+    [receiptId] => 374529037110149120
+    [yourPaymentReference] => PITCH-141-20181030120438
+    [type] => Payment
+    [createdAt] => 2018-10-30T12:04:40.6424+00:00
+    [result] => Success
+    [message] => AuthCode: 168393
+    [judoId] => 100403658
+    [merchantName] => Pitch
+    [appearsOnStatementAs] => APL*/Pitch   
+    [originalAmount] => 0.01
+    [netAmount] => 0.01
+    [amount] => 0.01
+    [currency] => GBP
+    [cardDetails] => Array
+        (
+            [cardLastfour] => 6823
+            [endDate] => 0123
+            [cardToken] => 5XlvwOrs5JSixosp9NOHr19ilreb6Vav
+            [cardType] => 11
+            [cardScheme] => Visa
+            [cardFunding] => Debit
+        )
+
+    [consumer] => Array
+        (
+            [consumerToken] => xK6PJX3TXiN1yHof
+            [yourConsumerReference] => PITCH-141-20181030120438
+        )
+
+    [riskScore] => 0
+    [risks] => Array
+        (
+            [postCodeCheck] => UNKNOWN
+            [merchantSuggestion] => Allow
+            [merchantStatistics] => Array
+                (
+                )
+
+        )
+
+)
+
+Start : 2018-10-30 12:04:42
+Array
+(
+    [plan_id] => 2
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 4757470045875996
+    [expiry_month] => 08
+    [expiry_year] => 20
+    [cvv] => 710
+)
+
+Register Card :Array
+(
+    [receiptId] => 374529045620396032
+    [yourPaymentReference] => Judo_RegisterCardPreAuth_636764978829311707
+    [type] => PreAuth
+    [createdAt] => 2018-10-30T12:04:42.9624+00:00
+    [result] => Success
+    [message] => AuthCode: 373688
+    [judoId] => 100403658
+    [merchantName] => Pitch
+    [appearsOnStatementAs] => APL*/Pitch   
+    [originalAmount] => 1.01
+    [amountCollected] => 0.00
+    [netAmount] => 1.01
+    [amount] => 1.01
+    [currency] => GBP
+    [cardDetails] => Array
+        (
+            [cardLastfour] => 5996
+            [endDate] => 0820
+            [cardToken] => z0cVIflvh3hkc8TwQFlPn6FAvXce3clF
+            [cardType] => 11
+            [cardScheme] => Visa
+            [cardFunding] => Debit
+        )
+
+    [consumer] => Array
+        (
+            [consumerToken] => HbkVhwI9JcnKNCIp
+            [yourConsumerReference] => PITCH-20181030120442
+        )
+
+    [riskScore] => 0
+    [risks] => Array
+        (
+            [postCodeCheck] => UNKNOWN
+            [merchantSuggestion] => Allow
+            [merchantStatistics] => Array
+                (
+                )
+
+        )
+
+)
+
+Token Payment :Array
+(
+    [receiptId] => 374529051119144960
+    [yourPaymentReference] => PITCH-20181030120442
+    [type] => Payment
+    [createdAt] => 2018-10-30T12:04:44.2651+00:00
+    [result] => Success
+    [message] => AuthCode: 689947
+    [judoId] => 100403658
+    [merchantName] => Pitch
+    [appearsOnStatementAs] => APL*/Pitch   
+    [originalAmount] => 0.01
+    [netAmount] => 0.01
+    [amount] => 0.01
+    [currency] => GBP
+    [cardDetails] => Array
+        (
+            [cardLastfour] => 5996
+            [endDate] => 0820
+            [cardToken] => z0cVIflvh3hkc8TwQFlPn6FAvXce3clF
+            [cardType] => 11
+            [cardScheme] => Visa
+            [cardFunding] => Debit
+        )
+
+    [consumer] => Array
+        (
+            [consumerToken] => HbkVhwI9JcnKNCIp
+            [yourConsumerReference] => PITCH-20181030120442
+        )
+
+    [riskScore] => 0
+    [risks] => Array
+        (
+            [postCodeCheck] => UNKNOWN
+            [merchantSuggestion] => Allow
+            [merchantStatistics] => Array
+                (
+                )
+
+        )
+
+)
+
+Start : 2018-10-30 17:18:38
+Array
+(
+    [plan_id] => 2
+    [plan_type] => month
+    [validation_session_plan_id] => 
+    [card_number] => 4658601536156013
+    [expiry_month] => 10
+    [expiry_year] => 20
+    [cvv] => 626
+)
+
+Register Card :Array
+(
+    [receiptId] => 374608050532995072
+    [yourPaymentReference] => Judo_RegisterCardPreAuth_636765167191613100
+    [type] => PreAuth
+    [createdAt] => 2018-10-30T17:18:39.1925+00:00
+    [result] => Success
+    [message] => AuthCode: 074839
+    [judoId] => 100403658
+    [merchantName] => Pitch
+    [appearsOnStatementAs] => APL*/Pitch   
+    [originalAmount] => 1.01
+    [amountCollected] => 0.00
+    [netAmount] => 1.01
+    [amount] => 1.01
+    [currency] => GBP
+    [cardDetails] => Array
+        (
+            [cardLastfour] => 6013
+            [endDate] => 1020
+            [cardToken] => oFEqt9lMJzGr20kK20aeAqxUoX88La0e
+            [cardType] => 11
+            [cardScheme] => Visa
+            [cardFunding] => Debit
+        )
+
+    [consumer] => Array
+        (
+            [consumerToken] => v1k6O0hVTX44kGfI
+            [yourConsumerReference] => PITCH-151-20181030171838
+        )
+
+    [riskScore] => 0
+    [risks] => Array
+        (
+            [postCodeCheck] => UNKNOWN
+            [merchantSuggestion] => Allow
+            [merchantStatistics] => Array
+                (
+                )
+
+        )
+
+)
+
+Token Payment :Array
+(
+    [receiptId] => 374608058577653760
+    [yourPaymentReference] => PITCH-151-20181030171838
+    [type] => Payment
+    [createdAt] => 2018-10-30T17:18:41.1091+00:00
+    [result] => Success
+    [message] => AuthCode: 061841
+    [judoId] => 100403658
+    [merchantName] => Pitch
+    [appearsOnStatementAs] => APL*/Pitch   
+    [originalAmount] => 0.01
+    [netAmount] => 0.01
+    [amount] => 0.01
+    [currency] => GBP
+    [cardDetails] => Array
+        (
+            [cardLastfour] => 6013
+            [endDate] => 1020
+            [cardToken] => oFEqt9lMJzGr20kK20aeAqxUoX88La0e
+            [cardType] => 11
+            [cardScheme] => Visa
+            [cardFunding] => Debit
+        )
+
+    [consumer] => Array
+        (
+            [consumerToken] => v1k6O0hVTX44kGfI
+            [yourConsumerReference] => PITCH-151-20181030171838
+        )
+
+    [riskScore] => 0
+    [risks] => Array
+        (
+            [postCodeCheck] => UNKNOWN
+            [merchantSuggestion] => Allow
+            [merchantStatistics] => Array
+                (
+                )
+
+        )
+
+)
+
+Start : 2018-11-05 15:32:57
+Start : 2018-11-06 17:59:53
+Register Card :Array
+(
+    [receiptId] => 377155148159717376
+    [yourPaymentReference] => Judo_RegisterCardPreAuth_636771239953794928
+    [type] => PreAuth
+    [createdAt] => 2018-11-06T17:59:55.4107+00:00
+    [result] => Success
+    [message] => AuthCode: 092955
+    [judoId] => 100403658
+    [merchantName] => Pitch
+    [appearsOnStatementAs] => APL*/Pitch   
+    [originalAmount] => 1.01
+    [amountCollected] => 0.00
+    [netAmount] => 1.01
+    [amount] => 1.01
+    [currency] => GBP
+    [cardDetails] => Array
+        (
+            [cardLastfour] => 6013
+            [endDate] => 1020
+            [cardToken] => thmDzb8VAK5fzjlt5S35MyEaCq0HQ7hT
+            [cardType] => 11
+            [cardScheme] => Visa
+            [cardFunding] => Debit
+        )
+
+    [consumer] => Array
+        (
+            [consumerToken] => l47OIb3sceUWJxB6
+            [yourConsumerReference] => PITCH-151-20181106175953
+        )
+
+    [riskScore] => 0
+    [risks] => Array
+        (
+            [postCodeCheck] => UNKNOWN
+            [merchantSuggestion] => Allow
+            [merchantStatistics] => Array
+                (
+                )
+
+        )
+
+)
+
+Token Payment :Array
+(
+    [receiptId] => 377155151884275712
+    [yourPaymentReference] => PITCH-151-20181106175953
+    [type] => Payment
+    [createdAt] => 2018-11-06T17:59:56.2833+00:00
+    [result] => Success
+    [message] => AuthCode: 074956
+    [judoId] => 100403658
+    [merchantName] => Pitch
+    [appearsOnStatementAs] => APL*/Pitch   
+    [originalAmount] => 99.99
+    [netAmount] => 99.99
+    [amount] => 99.99
+    [currency] => GBP
+    [cardDetails] => Array
+        (
+            [cardLastfour] => 6013
+            [endDate] => 1020
+            [cardToken] => thmDzb8VAK5fzjlt5S35MyEaCq0HQ7hT
+            [cardType] => 11
+            [cardScheme] => Visa
+            [cardFunding] => Debit
+        )
+
+    [consumer] => Array
+        (
+            [consumerToken] => l47OIb3sceUWJxB6
+            [yourConsumerReference] => PITCH-151-20181106175953
+        )
+
+    [riskScore] => 0
+    [risks] => Array
+        (
+            [postCodeCheck] => UNKNOWN
+            [merchantSuggestion] => Allow
+            [merchantStatistics] => Array
+                (
+                )
+
+        )
+
+)
+
+Start : 2018-11-26 19:37:06
+Start : 2018-12-13 13:40:15
+Start : 2019-01-08 13:22:58
+Start : 2019-01-08 13:28:43
+Start : 2019-02-01 15:12:52
+Start : 2019-05-07 12:27:30
+Start : 2019-05-16 15:16:16
+Start : 2019-05-16 19:04:38
+Start : 2019-05-17 09:51:32
+Start : 2019-05-17 18:26:25
+Start : 2019-05-17 18:28:00
+Start : 2019-05-18 12:13:59
+Start : 2019-05-24 10:34:28
+Start : 2019-07-26 19:39:50
+Start : 2019-08-01 10:42:23
+Start : 2019-08-02 08:54:52
+Start : 2019-08-14 15:23:30
+Start : 2019-09-18 10:21:50
+Start : 2019-09-23 10:57:36
+Start : 2019-09-23 11:08:39
+Start : 2019-09-23 11:32:14
+Start : 2019-09-23 11:37:09
+Start : 2019-09-23 11:40:22
+Start : 2019-09-23 11:43:20
+Start : 2019-09-23 11:45:51
+Start : 2019-09-23 11:49:52
+Start : 2019-09-23 11:52:15
+Start : 2019-09-23 11:53:50
+Start : 2019-09-23 11:55:58
+Start : 2019-09-23 12:00:41
+Start : 2019-09-23 12:02:38
+Start : 2019-09-23 12:06:04
+Start : 2019-09-23 12:09:44
+Start : 2019-09-23 12:12:28
+Start : 2019-09-23 12:14:55
+Start : 2019-09-23 12:17:05
+Start : 2019-09-23 12:22:24
+Start : 2019-09-23 12:24:28
+Start : 2019-09-23 12:26:13
+Start : 2019-09-23 12:29:05
+Start : 2019-09-23 12:31:24
+Start : 2019-09-23 12:32:59
+Start : 2019-09-23 12:33:36
+Start : 2019-09-23 12:35:20
+Start : 2019-09-23 12:36:27
+Start : 2019-09-23 12:36:30
+Start : 2019-09-23 12:36:34
+Start : 2019-09-23 12:37:27
+Start : 2019-09-23 12:38:20
+Start : 2019-09-23 12:39:46
+Start : 2019-09-23 12:41:24
+Start : 2019-09-23 12:41:26
+Start : 2019-09-23 12:41:55
+Start : 2019-09-23 12:43:10
+Start : 2019-09-23 12:45:46
+Start : 2019-09-23 12:45:49
+Start : 2019-09-23 12:51:11
+Start : 2019-09-23 12:53:11
+Start : 2019-09-23 12:54:36
+Start : 2019-09-23 12:57:42
+Start : 2019-09-23 12:59:10
+Start : 2019-09-23 13:00:38
+Start : 2019-09-23 13:02:02
+Start : 2019-09-23 13:02:53
+Start : 2019-09-23 13:04:49
+Start : 2019-09-23 13:08:57
+Start : 2019-09-23 13:12:03
+Start : 2019-09-23 13:14:21
+Start : 2019-09-23 13:14:37
+Start : 2019-09-23 13:14:44
+Start : 2019-09-23 13:18:24
+Start : 2019-09-23 13:20:45
+Start : 2019-09-23 13:20:49
+Start : 2019-09-23 13:22:00
+Start : 2019-09-23 13:25:53
+Start : 2019-09-23 13:30:57
+Start : 2019-09-23 13:36:28
+Start : 2019-09-23 13:37:06
+Start : 2019-09-23 13:40:00
+Start : 2019-09-23 13:40:34
+Start : 2019-09-23 13:40:57
+Start : 2019-09-23 13:42:00
+Start : 2019-09-23 13:42:10
+Start : 2019-09-23 13:45:20
+Start : 2019-09-23 13:46:33
+Start : 2019-09-23 13:47:37
+Start : 2019-09-23 13:50:31
+Start : 2019-09-23 13:51:18
+Start : 2019-09-23 13:55:40
+Start : 2019-09-23 13:58:30
+Start : 2019-09-23 14:00:18
+Start : 2019-09-23 14:02:37
+Start : 2019-09-23 14:20:23
+Start : 2019-09-23 14:22:46
+Start : 2019-09-23 14:23:17
+Start : 2019-09-23 14:26:24
+Start : 2019-09-23 14:32:07
+Start : 2019-09-23 14:32:25
+Start : 2019-09-23 14:36:43
+Start : 2019-09-23 14:41:58
+Start : 2019-09-23 14:45:00
+Start : 2019-09-23 14:52:34
+Start : 2019-09-23 14:54:51
+Start : 2019-09-23 14:57:56
+Start : 2019-09-23 14:59:51
+Start : 2019-09-23 15:07:22
+Start : 2019-09-23 15:08:41
+Start : 2019-09-23 15:11:00
+Start : 2019-09-23 15:14:57
+Start : 2019-09-23 15:21:50
+Start : 2019-09-23 15:25:18
+Start : 2019-09-23 15:33:43
+Start : 2019-09-23 15:38:26
+Start : 2019-09-23 17:24:22
+Start : 2019-09-23 19:15:06
+Start : 2019-10-01 12:59:12
+Register Card :Array
+(
+    [receiptId] => 496289986233102336
+    [yourPaymentReference] => Judo_RegisterCardPreAuth_637055315534372133
+    [type] => PreAuth
+    [createdAt] => 2019-10-01T12:59:13.4840+01:00
+    [result] => Declined
+    [message] => Card declined: Not authorised
+    [judoId] => 100403658
+    [merchantName] => Pitch
+    [appearsOnStatementAs] => APL*/Pitch   
+    [originalAmount] => 0.01
+    [amountCollected] => 0.00
+    [netAmount] => 0.01
+    [amount] => 0.01
+    [currency] => GBP
+    [cardDetails] => Array
+        (
+            [cardLastfour] => 7008
+            [endDate] => 0621
+            [cardType] => 12
+            [cardScheme] => Mastercard
+            [cardFunding] => Debit
+        )
+
+    [consumer] => Array
+        (
+            [consumerToken] => HHkqijZAs6IvX9rx
+            [yourConsumerReference] => PITCH-20191001125912
+        )
+
+    [riskScore] => 0
+    [risks] => Array
+        (
+            [postCodeCheck] => UNKNOWN
+            [merchantSuggestion] => Allow
+            [merchantStatistics] => Array
+                (
+                )
+
+        )
+
+)
+
+Start : 2019-10-01 12:59:28
+Register Card :Array
+(
+    [receiptId] => 496290052134006784
+    [yourPaymentReference] => Judo_RegisterCardPreAuth_637055315691403220
+    [type] => PreAuth
+    [createdAt] => 2019-10-01T12:59:29.1872+01:00
+    [result] => Declined
+    [message] => Card declined: Not authorised
+    [judoId] => 100403658
+    [merchantName] => Pitch
+    [appearsOnStatementAs] => APL*/Pitch   
+    [originalAmount] => 0.01
+    [amountCollected] => 0.00
+    [netAmount] => 0.01
+    [amount] => 0.01
+    [currency] => GBP
+    [cardDetails] => Array
+        (
+            [cardLastfour] => 7008
+            [endDate] => 0621
+            [cardType] => 12
+            [cardScheme] => Mastercard
+            [cardFunding] => Debit
+        )
+
+    [consumer] => Array
+        (
+            [consumerToken] => PFD7clqsRlhhlCTu
+            [yourConsumerReference] => PITCH-20191001125928
+        )
+
+    [riskScore] => 0
+    [risks] => Array
+        (
+            [postCodeCheck] => UNKNOWN
+            [merchantSuggestion] => Allow
+            [merchantStatistics] => Array
+                (
+                )
+
+        )
+
+)
+
+Start : 2019-10-14 19:29:03
+Start : 2019-10-14 19:30:01
+Start : 2019-10-14 19:32:23
+Start : 2019-10-17 12:38:24
+Start : 2019-10-26 19:38:06
+Start : 2019-10-28 18:53:55
+Start : 2019-10-28 18:55:34
+Start : 2019-10-28 18:57:20
+Start : 2019-10-28 18:57:22
+Start : 2019-10-28 18:57:29
+Start : 2019-10-28 18:58:54
+Start : 2019-10-28 19:00:28
+Start : 2019-10-28 19:02:34
+Start : 2019-10-28 19:14:17
+Start : 2019-10-28 19:16:09
+Start : 2020-05-06 18:52:44
+Start : 2020-05-06 18:52:50
