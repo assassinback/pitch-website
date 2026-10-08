@@ -8,10 +8,10 @@ require_once(ADMIN_PATH . "inc/twitteroauth/twitteroauth.php");
 $twitterID = "demo1258";
 $tweetNum = 3;
 
-$consumerKey = "Hea5FaNhHb87GtAlAhMZlxhL0";
-$consumerSecret = "CAw8MiQWejh7kTruw9iNDZk8WlOAUHKvvVdu6REovQKswcW75t";
-$accessToken = "2837980179-inArdGY0moQ31Sypw5RTQBJtBFnLFdI8QYIY7xF";
-$accessTokenSecret = "KPBvDc23p4qWvYKlHzo5ddRmUp3dXlhukxo66Kkn9BARI"; 
+$consumerKey = "";
+$consumerSecret = "";
+$accessToken = "";
+$accessTokenSecret = ""; 
 
 if($twitterID && $consumerKey && $consumerSecret && $accessToken && $accessTokenSecret) {
       //Authentication with twitter
